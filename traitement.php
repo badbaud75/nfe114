@@ -1,3 +1,5 @@
+<?php
+
 // Récupérer le mot entré par l'utilisateur
     $mot = $_GET["mot"];
 
